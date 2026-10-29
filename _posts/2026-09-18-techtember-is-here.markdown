@@ -9,8 +9,6 @@ sidebar_sections:
     url: "#the-library-in-a-pocket"
 ---
 
-The second half of September starts, and it's time for Techtember. I think this is the best time to write my first takes post. Now, this one's gonna go outside the usual format a bit - I don't really want to write a full blog post right now, but at the same time, it's like a compendium of takes in one go.
-
 ## The library in a pocket
 
 A quick search tells me Amazon released the first Kindle on November 19th, 2007. It had a genuine first-generation e-ink screen, a small keyboard at the bottom, and a whopping 250MB of storage. Absolutely wild for its time.
